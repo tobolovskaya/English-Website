@@ -1,11 +1,11 @@
 {
-  "name": "english-excellence",
+  "name": "English-Website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/english-excellence/",
+    "build": "vite build --base=/English-Website/",
     "preview": "vite preview"
   },
   "devDependencies": {
