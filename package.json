@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/English-Website/",
+    "homepage": "https://tobolovskaya.github.io/English-Website/",
     "preview": "vite preview"
   },
   "devDependencies": {
